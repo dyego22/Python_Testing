@@ -3,3 +3,4 @@ import matematica as mat
 
 print(mat.suma(3,4))
 print(mat.potencia(2,3))
+print(mat.suma(10,2))
